@@ -1,1 +1,1 @@
-# JS34
+# https://pixelgameweb.github.io/JS34/
